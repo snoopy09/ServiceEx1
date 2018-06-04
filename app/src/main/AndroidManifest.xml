@@ -21,6 +21,7 @@
         <service
             android:name=".TestService2"
             android:exported="false"></service>
+        <service android:name=".TestService3" />
     </application>
 
 </manifest>
